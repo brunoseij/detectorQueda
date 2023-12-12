@@ -1,4 +1,4 @@
-# Projeto Detector de Queda com NodeMCU v3 e Botão
+# Projeto Detector de Queda com envio de notificações
 
 ## Descrição
 
