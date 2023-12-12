@@ -1,4 +1,4 @@
-![1702379866716 (1)](https://github.com/brunoseij/detectorQueda/assets/89802339/d448b1dc-6ade-4f35-a5f5-e70245d70d16)# Projeto Detector de Queda com NodeMCU v3 e Botão
+# Projeto Detector de Queda com NodeMCU v3 e Botão
 
 ## Descrição
 
