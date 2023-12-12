@@ -1,4 +1,4 @@
-# Projeto Detector de Queda com NodeMCU v3 e Botão
+![1702379866716 (1)](https://github.com/brunoseij/detectorQueda/assets/89802339/d448b1dc-6ade-4f35-a5f5-e70245d70d16)# Projeto Detector de Queda com NodeMCU v3 e Botão
 
 ## Descrição
 
@@ -31,6 +31,7 @@ Este é um projeto de um detector de queda que utiliza a placa NodeMCU v3, um se
 
 4. **Conexão dos Componentes:**
    - Conecte o sensor de impacto KY-031, o acelerômetro MPU 6050 e o botão conforme o esquema de ligação abaixo.
+   ![1702379866716 (1)](https://github.com/brunoseij/detectorQueda/assets/89802339/ced5b58e-f3f8-4824-82bb-e6e98e13c2da)
 
 ## Uso
 
