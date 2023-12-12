@@ -11,8 +11,8 @@
 #define WEBSITE "maker.ifttt.com"
 
 // configuracao da rede
-#define SSID "nome_rede"
-#define PASSWORD "senha_rede"
+#define SSID "NOME_REDE"
+#define PASSWORD "SENHA_REDE"
 
 // definicao das estruturas de dados
 typedef struct
@@ -131,7 +131,7 @@ bool enviarNotificacao()
   {
     Serial.println("WiFi Client connected ");
     client.print(String("POST ") +
-                 "/trigger/{API}/with/key/{personal_key}" +
+                 "/trigger/NOME_APPLET/with/key/SEU_TOKEN_IFTTT" +
                  " HTTP/1.1\r\n" +
                  "Host: " + WEBSITE + "\r\n" +
                  "Connection: close\r\n\r\n");
